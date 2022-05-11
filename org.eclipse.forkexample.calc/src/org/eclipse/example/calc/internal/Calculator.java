@@ -38,6 +38,7 @@ public class Calculator {
 
 	private void setupDefaultOperations() {
 		// more operation to come
+		//TODO da kommt noch was (Zusatz)
 		new Equals();
 		new Minus();
 		new Plus();
